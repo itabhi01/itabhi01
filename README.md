@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=350&center=true&width=480&lines=%3C+Hello+World,+Abhimanyu+Here+%2F%3E;%3C+Web+Developer+%2F%3E">
+</p>
 <!--
 **itabhi01/itabhi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
